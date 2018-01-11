@@ -1,0 +1,144 @@
+Edson e Hudson - Porta Retrato
+
+(intro) F Fsus4  F  F9     F   Fsus4  F
+
+E|-17-----18-----18----17-----15-----15----17-----18-----18----17-|
+B|---18-----18-----18----18-----18-----18----18-----18-----18--18-|
+G|-----17-----17-----------17-----17-----------17-----17-------17-|
+
+ F
+Parecia um sonho
+               Am
+A gente ficar junto
+                A#
+Andar a pé na chuva
+Gm             C     C7
+    Sem medo de amar
+F                   Am
+Lembra de tudo que vivemos
+                 A#
+Das tardes de domingo
+Gm                C    C7
+    Da mágica no olhar
+A#            C         F
+Aceitar que tudo se perdeu
+         Dm
+Amor não dá
+A#             C
+Ouvir meu coração pedindo
+Am/E      Dm
+Pra você voltar
+A#               C
+Vai passando o tempo
+          F          Dm
+E eu não sei me controlar
+    A#
+Não dá
+C (pausa)                F   C#7
+Ficar sem você não dá
+
+(sobe 1/2 tom)
+
+           F#
+No porta retrato
+               A#m
+A gente se abraçando
+                B
+Momentos que ficaram
+G#m                  C#
+   Difíceis de esquecer
+C#7
+Ouou...Ouou
+F#
+Te amo
+                 A#m
+Sei que ainda me ama
+                B
+Bateu saudade, chama !
+G#m               C#        C#7
+   Que eu volto pra você
+
+B            C#          F#
+Aceitar que tudo se perdeu
+         D#m
+Amor não dá
+B             C#
+Ouvir meu coração pedindo
+A#m/F      D#m
+Pra você voltar
+B                C#
+Vai passando o tempo
+          F#         D#m
+E eu não sei me controlar
+    B
+Não dá
+C# (pausa)                  F#   D7
+Ficar sem você não dá
+
+(sobe 1/2 tom)
+
+(solo)
+               G               Bm               C Am        D7                                C7
+E|---------------------------------------------------------------------------------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------------------------------------------------------------------------------|
+G|-----------------------------12-11--------------------12-11-------------------------------------------12p11-12p11----11----------------------------|
+D|-------12-12----12h14-12--12-------14-12-12h14-12--12-------14-12-12---------------------12-----------------------14----14-12-14-12----------------|
+A|-12h14-------14------------------------------------------------------15---14-15-14-15-14----12h14-12--------------------------------15-14-12-14h15-|
+E|---------------------------------------------------------------------------------------------------------------------------------------------------|
+
+C           D       G
+Aceitar que tudo se perdeu
+         Em
+Amor não dá
+C            D
+Ouvir meu coração pedindo
+Bm/F#        Em
+Pra você voltar
+C              D
+Vai passando o tempo
+         G          Em
+E eu não sei me controlar
+    C
+Não dá
+D                 G
+Ficar sem você não dá
+  Em
+Ouou...
+    C
+Não dá
+D                 G
+Ficar sem você não dá
+            Em      C
+Não dá, não dá, não dá
+D (pausa)                 G
+Ficar sem você não dá.
+
+( G F D# F G F D# F G )
+
+----------------- Acordes -----------------
+G# = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+G#m = 4 6 6 4 4 4
+A# = X 1 3 3 3 1
+Am/E = 0 X 2 2 1 0
+A#m = X 1 3 3 2 1
+A#m/F = X X 3 3 2 1
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Bm = X 2 4 4 3 2
+Bm/F# = X X 4 4 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+C#7 = X 4 3 4 2 X
+D# = X 6 5 3 4 3
+D#m = X X 1 3 4 2
+F = 1 3 3 2 1 1
+F9 = 1 3 5 2 1 1
+Fsus4 = 1 3 3 3 1 1
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
