@@ -102,15 +102,3 @@ A minha terra tem um céu azul, céu azul
 
     E
 Eu sou do sul
-
------------------ Acordes -----------------
-F#m = 2 4 4 2 2 2
-G# = 4 3 1 1 1 4
-A = X 0 2 2 2 0
-A9 = X 0 2 2 0 0
-B = X 2 4 4 4 2
-B7 = X 2 1 2 0 2
-C#4 = X 4 4 1 2 X
-C#m = X 4 6 6 5 4
-E = 0 2 2 1 0 0
-E/G# = 4 X 2 4 5 X

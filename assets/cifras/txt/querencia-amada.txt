@@ -2,7 +2,6 @@ Teixeirinha - Querência amada
 
 Intro: E A E B7 A B7 E
 
-
 E                           A
 Quem quiser saber quem sou olha para o céu azul
 B7                    A           B7       E
@@ -61,8 +60,3 @@ Querência amada meu céu de anil este Rio Grande gigante
 Mais uma estrela brilhante na bandeira do Brasil
 
 Finalização: E A B7 E A E
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-B7 = X 2 1 2 0 2
-E = 0 2 2 1 0 0

@@ -44,10 +44,3 @@ Mais alegria vou ter e se ele me perguntar
                   B7                     E
 Do que se deve gostar como meu pai vou dizer
 ( )Int.
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-B7 = X 2 1 2 0 2
-E = 0 2 2 1 0 0
-F#7 = 2 4 2 3 2 2
-F#m = 2 4 4 2 2 2

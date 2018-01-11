@@ -70,12 +70,3 @@ Que faz eu esquecer que a vida é feita pra viver
 Que derrubou a base forte da minha paixão
            C#m                     F#7             B F#7
 Que fez eu entender que a vida é nada sem você
-
------------------ Acordes -----------------
-G#m = 4 6 6 4 4 4
-B = X 2 4 4 4 2
-B7 = X 2 1 2 0 2
-C#m = X 4 6 6 5 4
-C#m/B = 7 X 6 6 5 X
-E = 0 2 2 1 0 0
-F#7 = 2 4 2 3 2 2

@@ -48,16 +48,3 @@ Se na verdade eu quero bis
 Rolar com você
          A7                  D
 Nem que seja pra brincar de ser feliz
-
------------------ Acordes -----------------
-G = 3 2 0 0 0 3
-Gm = 3 5 5 3 3 3
-A7 = X 0 2 0 2 0
-Am = X 0 2 2 1 0
-A# = X 1 3 3 3 1
-C = X 3 2 0 1 0
-D = X X 0 2 3 2
-D7 = X X 0 2 1 2
-Dm = X X 0 2 3 1
-E7 = 0 2 2 1 3 0
-Em = 0 2 2 0 0 0

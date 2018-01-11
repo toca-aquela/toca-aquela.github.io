@@ -1,13 +1,5 @@
 Edson e Hudson - Foi Deus
 
-( E )
-E |--4--2--4-----|
-B |-----------5--|
-
-( A )
-E |--4--2--4-----|
-B |-----------2--|
-
     E
 Foi Deus
             B                C#m
@@ -66,12 +58,3 @@ Valeu, ter esperado o tempo passar
 Pra de uma vez meu amor entregar
          F#m               E     A   E
 E não sentir solidão nunca mais
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-B = X 2 4 4 4 2
-C#m = X 4 6 6 5 4
-E = 0 2 2 1 0 0
-F#m = 2 4 4 2 2 2
-G#m = 4 6 6 4 4 4
-Gm = 3 5 5 3 3 3

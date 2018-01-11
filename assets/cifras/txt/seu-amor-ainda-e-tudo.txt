@@ -63,19 +63,3 @@ Daquele maldito momento até hoje só você
 Eu sei que o culpado de não ter você, sou eu
  F#7                                          B    E   B
 E esse medo terrível de amar outra vez . . .é meeeee...u
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-B = X 2 4 4 4 2
-B6 = X 2 4 1 4 X
-B7M = X 2 4 3 4 2
-Bm = X 2 4 4 3 2
-C#m = X 4 6 6 5 4
-C#m6 = X 4 X 3 5 4
-C#m7 = X 4 6 4 5 4
-C#m7M = X 4 6 5 5 4
-D = X X 0 2 3 2
-E = 0 2 2 1 0 0
-Em = 0 2 2 0 0 0
-F#7 = 2 4 2 3 2 2
-G#m = 4 6 6 4 4 4

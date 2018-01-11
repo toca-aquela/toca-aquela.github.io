@@ -32,11 +32,3 @@ Quando você chegar, mando a saudade sair
 Vai trovejar  vai cair um temporal de amor
                D    A
 Um temporal de amor
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-A7 = X 0 2 0 2 0
-C#7 = X 4 3 4 2 X
-D = X X 0 2 3 2
-E7 = 0 2 2 1 3 0
-F#m = 2 4 4 2 2 2

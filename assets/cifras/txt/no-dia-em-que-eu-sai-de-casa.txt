@@ -107,10 +107,3 @@ E o olhar de minha mãe na porta
 Eu deixei chorando 
            A
 A me abençoar
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-A7 = X 0 2 0 2 0
-Bm = X 2 4 4 3 2
-D = X X 0 2 3 2
-E = 0 2 2 1 0 0

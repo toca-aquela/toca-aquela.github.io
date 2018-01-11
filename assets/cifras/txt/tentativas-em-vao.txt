@@ -81,10 +81,3 @@ E                                                  G#m
 um lado diz que quer  ficar com você o outro diz esqueça
 E                                                  G#m
 O que é que eu vou fazer pra tirar você da minha cabeça
-
------------------ Acordes -----------------
-G#m = 4 6 6 4 4 4
-A = X 0 2 2 2 0
-B = X 2 4 4 4 2
-C#m = X 4 6 6 5 4
-E = 0 2 2 1 0 0

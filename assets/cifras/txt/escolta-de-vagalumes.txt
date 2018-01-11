@@ -63,12 +63,3 @@ E a felicidade de um bem-ti-vi
 Que parece dizer meu amigo voltou
 
 (estribilho)
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-A7 = X 0 2 0 2 0
-A9 = X 0 2 2 0 0
-Bm = X 2 4 4 3 2
-D = X X 0 2 3 2
-E7 = 0 2 2 1 3 0
-F#m = 2 4 4 2 2 2

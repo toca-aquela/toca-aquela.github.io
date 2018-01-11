@@ -107,12 +107,3 @@ Não é que eu vá te vigiar
 Não é que eu queira ser seu dono
         G                A               D
 Isso é só um cuidado de pai Filha eu te amo
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-A/C# = X 4 X 2 5 5
-Bm = X 2 4 4 3 2
-D = X X 0 2 3 2
-Em = 0 2 2 0 0 0
-F#7 = 2 4 2 3 2 2
-G = 3 2 0 0 0 3

@@ -75,11 +75,3 @@ Conte uma história, fale uma mentira
 Fala que eu fiquei sem gasolina
                B                 E
 Que estou de fogo e meu carro quebrou
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-A/B = X 2 2 2 2 X
-B = X 2 4 4 4 2
-E = 0 2 2 1 0 0
-E7 = 0 2 2 1 3 0
-F#m = 2 4 4 2 2 2

@@ -79,12 +79,3 @@ Que saiba dar valor ao meu amor
 E que me queira 
 B          E 
 Me queira Bem
-
------------------ Acordes -----------------
-A = X 0 2 2 2 0
-B = X 2 4 4 4 2
-B7 = X 2 1 2 0 2
-C#m = X 4 6 6 5 4
-C° = X 3 4 2 4 2
-E = 0 2 2 1 0 0
-F#m = 2 4 4 2 2 2

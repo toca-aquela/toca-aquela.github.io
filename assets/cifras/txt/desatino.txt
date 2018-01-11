@@ -1,12 +1,5 @@
 João Carreiro e Capataz - Desatino
 
-E|--7--4--4--5-----5--4--[------------------[--4------------
-B|--5--5--4--7-----7--5--[--4/5--5--------- [--5------------ para facilitar o solo
-G|--4-----------4--------[-----------4------[--4------------  manter os dedos em
-D|--6--------------------[--------------6---[--6------------  dó (C)
-A|--x--------------------[------------------[--7------------
-E|--x--------------------[------------------[--7------------
-
  E/B                     A E                    A E
 Em um quarto de hotel,         loucamente apaixonado,
                       E5                  B         (B4)    B
@@ -31,15 +24,3 @@ E5                       A E                        B       (B4)
      É que esse meu desatino       é uma mulher envolvente,
         A (A4)                        B7             E       A E5
 amor diferente, olhar de serpente é o doce veneno que me satisfaz..
-
------------------ Acordes -----------------
-E = 0 2 2 1 0 0
-E/B = X 2 2 1 0 0
-E5 = 0 2 2 X X X
-E7 = 0 2 2 1 3 0
-F#m = 2 4 4 2 2 2
-A = X 0 2 2 2 0
-A4 = X 0 2 2 3 0
-B = X 2 4 4 4 2
-B4 = X 2 4 4 5 2
-B7 = X 2 1 2 0 2
